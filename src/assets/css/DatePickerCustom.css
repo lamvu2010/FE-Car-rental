@@ -1,0 +1,18 @@
+/* DatePickerCustom.css */
+
+/* Đổi màu nền và chữ trong bảng chọn ngày */
+.react-datepicker__day--selected,
+.react-datepicker__day--keyboard-selected {
+    background-color: #2563eb;
+    color: #fff;
+}
+
+.react-datepicker__header {
+    background-color: white;
+    color: white;
+}
+
+.react-datepicker__day:hover {
+    background-color: #93c5fd;
+    color: black;
+}
